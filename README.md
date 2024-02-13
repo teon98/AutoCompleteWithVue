@@ -1,29 +1,6 @@
-# VueJS-with-Vite
+# Vue로 콤보박스 만들기 및 통합검색 창 만들기 포스팅
+### 게시물 바로가기
+- [1️⃣ vue로 콤보박스 만들기](https://teon98.tistory.com/3)
+- [2️⃣ vue로 통합검색 창 만들기](https://teon98.tistory.com/4)
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+### 미리보기
